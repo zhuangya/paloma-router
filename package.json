@@ -1,0 +1,29 @@
+{
+  "name": "paloma-router",
+  "description": "Router for paloma",
+  "version": "0.1.0",
+  "main": "index.js",
+  "keywords": [
+    "paloma",
+    "palomajs",
+    "router",
+    "route",
+    "controller",
+    "middleware"
+  ],
+  "dependencies": {
+    "consolidate": "^0.13.1",
+    "debug": "^2.2.0",
+    "ejs": "^2.3.4",
+    "koa-compose": "^3.0.0",
+    "path-to-regexp": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/palomajs/paloma-router"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 4"
+  }
+}
