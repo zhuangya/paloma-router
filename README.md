@@ -42,6 +42,8 @@ app.route({
 app.listen(3000);
 ```
 
+More examples see [paloma-example](https://github.com/palomajs/paloma-examples).
+
 ### Notes
 
 `paloma-router` not support load partials view yet, like EJS's `include`.
